@@ -2,7 +2,7 @@
 
 Bem-vindo a repositório do **Curso "Talento Cloud"** oferecido pela 🌟 AWS 🌟 em parceria com a **PROZ Educação**. Este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso.
 
-![Logo TalentoCloud](https://s3.amazonaws.com/joy-class/production/instances/3ac6c65da21a4eca8383e92cab75e0991689712946577.png)
+![Logo TalentoCloud](logo_talento_cloud.png)
 
 ## 📂 Estrutura do Curso
 O curso "Talento Cloud" está estruturado em vários módulos que preparam você para uma carreira de sucesso na área Front-End. Abaixo está a estrutura do curso:
