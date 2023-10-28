@@ -1,0 +1,51 @@
+INSTRUÇÕES DO PROJETO
+Elabore um algoritmo para que o usuário, através da entrada de dados, informe os seus dados pessoais. Alguns desses dados
+fornecidos pelo usuário precisam ser apresentados na tela quando o algoritmo for executado, são eles:
+ 
+- Nome;
+- Endereço;
+- Cidade;
+- CPF;
+- RG.
+
+Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algum repositório e compartilhe o link no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+##########
+
+Variáveis:
+
+caracter nome
+caracter endereco
+caracter cidade
+caracter cpf
+caracter rg
+
+
+
+Solicitação de informações:
+
+Escreva("Digite seu nome: ")
+Leia(nome)
+
+Escreva("Digite seu endereço: ")
+Leia(endereco)
+
+Escreva("Digite sua cidade: ")
+Leia(cidade)
+
+Escreva("Digite seu CPF: ")
+Leia(cpf)
+
+Escreva("Digite seu RG: ")
+Leia(rg)
+
+
+
+Apresentação das informações na tela:
+
+Escreva("Dados informados:")
+Escreva("Nome: " + nome)
+Escreva("Endereço: " + endereco)
+Escreva("Cidade: " + cidade)
+Escreva("CPF: " + cpf)
+Escreva("RG: " + rg)

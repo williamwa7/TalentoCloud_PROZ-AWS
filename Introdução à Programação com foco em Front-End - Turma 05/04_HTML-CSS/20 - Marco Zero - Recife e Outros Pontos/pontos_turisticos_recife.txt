@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Pontos Turísticos em Recife</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Pontos Turísticos em Recife</h1>
+        <p>Descubra mais lugares incríveis para visitar</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Recife Antigo</h2>
+            <p>O Recife Antigo é o centro histórico da cidade, repleto de prédios coloniais e ruas de paralelepípedo. Você pode explorar suas praças, igrejas e museus, como a Sinagoga Kahal Zur Israel, a Igreja da Ordem Terceira de São Francisco e o Museu Cais do Sertão.</p>
+            <figure>
+                <img src="https://live.staticflickr.com/5245/5381128524_9b3aeee237_b.jpg" alt="Recife Antigo">
+                <figcaption>Praça do Marco Zero no Recife Antigo</figcaption>
+            </figure>
+        </section>
+
+        <section>
+            <h2>Cais do Sertão</h2>
+            <p>O Cais do Sertão é um museu interativo dedicado à cultura do sertão nordestino. Os visitantes podem aprender sobre a vida, a arte e a música do sertão, incluindo homenagens a artistas como Luiz Gonzaga e Luiz Gonzaga. É uma experiência cultural imperdível em Recife.</p>
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Museu_Cais_do_Sertao_04.jpg" alt="Cais do Sertão">
+                <figcaption>Exposições interativas no Cais do Sertão</figcaption>
+            </figure>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Pontos Turísticos em Recife</p>
+    </footer>
+</body>
+</html>

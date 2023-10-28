@@ -1,0 +1,31 @@
+INSTRUÇÕES DO PROJETO
+Pedro foi ao supermercado e comprou ovos, leite, farinha, açúcar, manteiga e achocolatado em pó para fazer um bolo de chocolate. Como ele nunca fez um bolo antes, ele está bastante confuso e perdido. Auxilie Pedro construindo uma sequência lógica dos passos necessários para a preparação desse bolo. 
+
+Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algum repositório (como o Google Drive, o Dropbox ou o OneDrive) e compartilhe o link do arquivo no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+##########
+
+Para Pedro fazer o bolo de chocolate, ele precisa seguir uma sequência de passos:
+
+1. Lave as mãos.
+
+2. Coloque todos os ingredientes na mesa para que possa vê-los.
+
+3. Pré-aqueça o forno para a temperatura ideal para assar.
+
+4. Unte uma forma com manteiga e polvilhe com um pouco de farinha para que o bolo não grude.
+
+5. Em uma tigela grande, misture a farinha, o açúcar e o achocolatado em pó.
+
+6. Em outra tigela, bata os ovos, adicione o leite e a manteiga derretida.
+
+7. Despeje a mistura das duas tigelas em uma única tigela e misture bem até obter uma massa homogênea.
+
+8. Despeje a massa na forma e coloque no forno pré-aquecido.
+
+9. Após alguns minutos, verifique com um palito de dente se o bolo já está assado espetando ele no bolo. Se sair limpo, o bolo está pronto.
+
+9. Retire o bolo do forno e deixe esfriar por alguns minutos antes de desenformar.
+
+Pronto!
+Seguindo corretamente esta sequência, Pedro terá um bom bolo de chocolate.

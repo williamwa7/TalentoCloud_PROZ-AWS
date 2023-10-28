@@ -1,0 +1,33 @@
+INSTRUÇÕES DO PROJETO
+Elabore um algoritmo que possa descobrir, através de perguntas e respostas, em qual área de um restaurante uma pessoa ou grupo de pessoas precisa ser alocada.
+O restaurante tem três áreas: térreo, 1ro andar, e área externa.
+Clientes fumantes ou com animais de estimação precisam ser alocadas na área externa.
+Grupos de 5 ou mais precisam ser alocados no 1º andar, pois não dá para juntar mesas no térreo.
+Qualquer outro grupo de pessoas pode ser alocado no térreo. 
+
+Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algum repositório e compartilhe o link no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+##########
+
+inteiro numPessoas 
+caracter fumantesOuAnimais
+
+
+Escreva("Quantas pessoas estão no seu grupo? ")
+Leia(numPessoas)
+
+
+escreva("Há fumantes ou animais de estimação no grupo? (S/N) ")
+leia(fumantesOuAnimais)
+
+
+se numPessoas >= 5 Então
+    Escreva("Seu grupo pode se dirigir ao 1º andar.")
+	
+senão se fumantesOuAnimais == "S" Então
+    Escreva("Seu grupo pode se dirigir para a área externa.")
+	
+senão
+    Escreva("Seu grupo pode se dirigir ao térreo.")
+	
+Fim Se

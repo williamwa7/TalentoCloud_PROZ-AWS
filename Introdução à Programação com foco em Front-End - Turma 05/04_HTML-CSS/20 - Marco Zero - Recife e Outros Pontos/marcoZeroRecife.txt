@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Recife - Marco Zero</title>
+  </head>
+  <body>
+    <header>
+      <h1>Marco Zero - Recife</h1>
+      <p>Descubra a beleza deste ponto turístico único</p>
+    </header>
+
+    <main>
+      <section>
+        <h2>Sobre o Marco Zero</h2>
+        <p>
+          O Marco Zero é um dos pontos turísticos mais icônicos de Recife,
+          localizado no bairro do Recife Antigo. Ele marca o início da contagem
+          das distâncias rodoviárias da cidade e é também um local histórico e
+          cultural importante. Além disso, é conhecido por ser o ponto de
+          partida do famoso Carnaval de Recife.
+        </p>
+      </section>
+
+      <section>
+        <h2>Imagens</h2>
+        <figure>
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/1/14/Marco_zero_recife_antigo.jpg"
+            alt="Marco Zero em Recife"
+          />
+          <figcaption>Vista do Marco Zero</figcaption>
+        </figure>
+      </section>
+
+      <section>
+        <h2>Localização</h2>
+        <p>
+          O Marco Zero está situado às margens do Rio Capibaribe, oferecendo uma
+          vista espetacular da cidade e do seu porto. Além disso, está cercado
+          por diversos bares, restaurantes e lojas de artesanato, tornando-o um
+          local ideal para passear e apreciar a cultura local.
+        </p>
+      </section>
+
+      <section>
+        <h2>Eventos e Atrações</h2>
+        <p>
+          O Marco Zero é palco de diversos eventos ao longo do ano, incluindo
+          shows, festivais de música, dança e muito mais. Além disso, é possível
+          fazer passeios de barco pelo rio, explorar a arquitetura histórica da
+          região e desfrutar da deliciosa culinária pernambucana.
+        </p>
+      </section>
+
+      <section>
+	<a href="pontos_turisticos_recife.html">Descubra mais pontos turísticos em Recife</a>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2023 Recife - Marco Zero</p>
+    </footer>
+  </body>
+</html>

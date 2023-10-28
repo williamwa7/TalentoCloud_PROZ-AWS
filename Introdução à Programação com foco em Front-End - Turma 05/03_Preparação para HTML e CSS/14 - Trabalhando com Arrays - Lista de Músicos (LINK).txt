@@ -1,0 +1,10 @@
+INSTRUÇÕES DO PROJETO
+Copie o array apresentado embaixo no seu editor de código, e imprima no terminal: a quantidade de elementos que ele possui, o dado salvo no índice 2, o dado salvo no índice 9, e dado salvo no índice 14.
+
+lista_musicos = [ 'Djavan', 'Roberto Carlos', 'Elis Regina', 'Tom Jobim', 'Milton Nascimento', 'Chico Buarque', 'Nara Leão', 'Pitty', 'Simonal', 'Moacir Santos', 'Caetano Veloso', 'Elza Soares', 'Paulinho da Viola', 'Yamandú Costa', 'Gal Costa'] 
+
+Trabalhe esse código no Google Colab, e compartilhe o link do projeto no campo ao lado para que outros desenvolvedores possam analisá-lo. 
+
+##########
+
+https://colab.research.google.com/drive/125zWCoumLuaQZ4LbZaYxFsg0h435LVMK?usp=sharing
