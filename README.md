@@ -21,7 +21,7 @@ Cada módulo contém atividades práticas e projetos realizados a fim de aprimor
 ## 📁 Como Navegar Neste Repositório
 Dentro deste repositório, você encontrará uma estrutura organizada para cada módulo do curso. Para acessar as atividades e projetos de um módulo específico, basta navegar até a pasta correspondente.
 
-Por exemplo, para acessar as atividades do módulo "JavaScript I", vá até a pasta "05_JavaScript I". Você encontrará informações e arquivos relacionados a esse módulo.
+Por exemplo, para acessar as atividades do módulo "JavaScript I", vá até a pasta "05_JavaScript I" ou clique na opção correspondente no índice acima. Na pasta, você encontrará informações e arquivos relacionados a esse módulo.
 
 ## 🚀 O Programa
 
