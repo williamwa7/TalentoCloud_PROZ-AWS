@@ -7,10 +7,10 @@ Bem-vindo a repositório do **Curso "Talento Cloud"** oferecido pela 🌟 AWS �
 ## 📂 Estrutura do Curso
 O curso "Talento Cloud" está estruturado em vários módulos que preparam você para uma carreira de sucesso na área Front-End. Abaixo está a estrutura do curso:
 
-01. **Lógica Imperativa**
-02. **Introdução à Programação**
-03. **Preparação para HTML e CSS**
-04. **HTML-CSS**
+01. [**Lógica Imperativa**](https://github.com/williamwa7/TalentoCloud_PROZ-AWS/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20com%20foco%20em%20Front-End%20-%20Turma%2005/01_L%C3%B3gica%20Imperativa)
+02. [**Introdução à Programação**](https://github.com/williamwa7/TalentoCloud_PROZ-AWS/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20com%20foco%20em%20Front-End%20-%20Turma%2005/02_Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o)
+03. [**Preparação para HTML e CSS**](https://github.com/williamwa7/TalentoCloud_PROZ-AWS/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20com%20foco%20em%20Front-End%20-%20Turma%2005/03_Prepara%C3%A7%C3%A3o%20para%20HTML%20e%20CSS)
+04. [**HTML-CSS**](https://github.com/williamwa7/TalentoCloud_PROZ-AWS/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20com%20foco%20em%20Front-End%20-%20Turma%2005/04_HTML-CSS)
 05. **JavaScript I**
 06. **JavaScript II**
 07. **Banco de Dados I**
