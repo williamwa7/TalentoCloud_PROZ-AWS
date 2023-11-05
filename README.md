@@ -11,7 +11,7 @@ O curso "Talento Cloud" está estruturado em vários módulos que preparam você
 02. [**Introdução à Programação**](https://github.com/williamwa7/TalentoCloud_PROZ-AWS/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20com%20foco%20em%20Front-End%20-%20Turma%2005/02_Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o)
 03. [**Preparação para HTML e CSS**](https://github.com/williamwa7/TalentoCloud_PROZ-AWS/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20com%20foco%20em%20Front-End%20-%20Turma%2005/03_Prepara%C3%A7%C3%A3o%20para%20HTML%20e%20CSS)
 04. [**HTML-CSS**](https://github.com/williamwa7/TalentoCloud_PROZ-AWS/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20com%20foco%20em%20Front-End%20-%20Turma%2005/04_HTML-CSS)
-05. **JavaScript I**
+05. [**JavaScript I**](https://github.com/williamwa7/TalentoCloud_PROZ-AWS/tree/main/Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20com%20foco%20em%20Front-End%20-%20Turma%2005/05_JavaScript%20I)
 06. **JavaScript II**
 07. **Banco de Dados I**
 08. **Banco de Dados II**
