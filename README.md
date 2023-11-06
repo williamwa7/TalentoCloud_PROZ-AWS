@@ -1,6 +1,6 @@
 # 📚 Repositório do Curso "Talento Cloud"
 
-Bem-vindo a repositório do **Curso "Talento Cloud"** oferecido pela 🌟 AWS 🌟 em parceria com a **PROZ Educação**. Este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso.
+Bem-vindo a repositório do **Curso "Talento Cloud"** oferecido pela **AWS** em parceria com a **PROZ Educação**. Este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso.
 
 ![Logo TalentoCloud](https://res.cloudinary.com/dmzbuztfw/image/upload/v1698622712/GitHub_Images/logo_talento_cloud_crop_dmjsvn.png)
 
