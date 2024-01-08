@@ -13,7 +13,7 @@ O curso "Talento Cloud" está estruturado em vários módulos que preparam você
 04. [**HTML-CSS**](Introdução%20à%20Programação%20com%20foco%20em%20Front-End%20-%20Turma%2005/04_HTML-CSS/)
 05. [**JavaScript I**](Introdução%20à%20Programação%20com%20foco%20em%20Front-End%20-%20Turma%2005/05_JavaScript%20I/)
 06. [**JavaScript II**](Introdução%20à%20Programação%20com%20foco%20em%20Front-End%20-%20Turma%2005/06_JavaScript%20II/JavaScript%20II.md)
-07. **Banco de Dados I**
+07. [**Banco de Dados I**](Introdução%20à%20Programação%20com%20foco%20em%20Front-End%20-%20Turma%2005/07_Banco%20de%20Dados%20I/)
 08. **Banco de Dados II**
 
 Cada módulo contém atividades práticas e projetos realizados a fim de aprimorar as habilidades em desenvolvimento Front-End.
