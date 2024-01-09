@@ -4,7 +4,7 @@
 
 A normalização de dados é um processo realizado nas tabelas para evitar anomalias. Com base no conteúdo visto no Hipertexto 3, transforme a tabela em anexo na Primeira Forma Normal (1FN).
 
-![imagem01](imagem01.png)
+![imagem01](Imagem01.png)
 
 ### Tabela normalizada 1FN:
 
